@@ -1,0 +1,36 @@
+share object in multiple thread
+
+lockinterface
+rest characterstics
+dblock
+secondlevel cache implementation
+how to do serverside pagination if onelac records
+oouth2 archtecture and how it work
+how db concurrency happens
+steps for optimization query
+offset in oracle
+batch process archtecture
+1. middle-down approach
+2.second highest sal
+3.microservice characterstic
+4. algothiram definations and rules
+5.proveck process and swap threads
+6.microservice disadvantages
+
+which is best for thread(hashset or treeset).
+diff between maven repository,dependency management and dependency.
+what is the use of stash in git
+diff spring boot profile and maven profile
+smallest polindrum from srping.
+how to configure two sql and nosql database in spring jpa
+externlization
+how to do array has final
+how to change final jar name in maven
+@EnableAutoConfiguration vs @ComponentScan
+git cherry-pick -x <commit-hash> it is used for merge specific commits
+how to debug production issues
+how to handle exceptionin spring boot applicaiton level //ResponseEntityExceptionHandler.
+Squash commits into one with Git
+git notes copy <from> <to>
+different types of garbage collection in java -> G1 garbage collector use
+how to convert String to enum in spring boot rest- @InitBinder we can convert string to enum
